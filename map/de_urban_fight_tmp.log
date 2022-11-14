@@ -1,0 +1,104 @@
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\de_urban_fight_tmp.vmf
+Map revision 458
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-1735.94 977.20 63.29) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (95315 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 79 texinfos to 61
+Reduced 8 texdatas to 8 (181 bytes to 181)
+Writing c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\de_urban_fight_tmp.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\de_urban_fight_tmp.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\de_urban_fight_tmp.bsp
+No vis information, direct lighting only.
+2540 faces
+6326600 square feet [911030464.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+16 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0080 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                236/8192         2832/98304    ( 2.9%) 
+brushsides            1696/81920       13568/655360   ( 2.1%) 
+planes                1164/65536       23280/1310720  ( 1.8%) 
+vertexes              3727/65536       44724/786432   ( 5.7%) 
+nodes                 1978/65536       63296/2097152  ( 3.0%) 
+texinfos                61/12288        4392/884736   ( 0.5%) 
+texdata                  8/4096          256/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2540/65536      142240/3670016  ( 3.9%) 
+hdr faces             2540/65536      142240/3670016  ( 3.9%) 
+origfaces              817/65536       45752/3670016  ( 1.2%) 
+facebrushes            191/0             382/0        ( 0.0%) 
+facebrushlists        2540/0           10160/0        ( 0.0%) 
+leaves                1988/65536       63616/2097152  ( 3.0%) 
+leaffaces             2851/65536        5702/131072   ( 4.4%) 
+leafbrushes            914/65536        1828/131072   ( 1.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            15147/512000      60588/2048000  ( 3.0%) 
+edges                 8257/256000      33028/1024000  ( 3.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         16/8192         1600/819200   ( 0.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            241/32768        2410/327680   ( 0.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3441/65536        6882/131072   ( 5.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1952132/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       11303/393216   ( 2.9%) 
+LDR ambient table     1988/65536        7952/262144   ( 3.0%) 
+HDR ambient table     1988/65536        7952/262144   ( 3.0%) 
+LDR leaf ambient      1988/65536       55664/1835008  ( 3.0%) 
+HDR leaf ambient     12141/65536      339948/1835008  (18.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/24790    ( 0.0%) 
+pakfile               [variable]     5171706/0        ( 0.0%) 
+physics               [variable]       95315/4194304  ( 2.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7e
+
+Total triangle count: 6703
+Writing c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\de_urban_fight_tmp.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\de_urban_fight_tmp.bsp', but we don't own that location. Allowing...
+2 minutes, 40 seconds elapsed
