@@ -1,0 +1,26 @@
+// Each entry must have 5 numbers seperated by a space.
+// The first three numbers are the X Y Z coordinates of where the camera sits.
+// The 4th and 5th numbers are the PITCH and YAW of the cameras angles and is the direction that it points.
+// To easily get camera angles, fly around the map and type "spec_pos" in the console.
+// The console will return the 5 numbers that you need to paste into your entry below.
+// More cameras is better.
+
+"Cameras"
+{
+    "entrence"          "12486.2 -10522.4 494.0 19.5 -135.8"
+    "servers"           "9217.2 -10882.5 202.8 30.3 -57.5"
+    "warehouseEntrence" "11051.6 -8975.1 313.3 14.2 -54.5"
+    "warehouseCornor"   "11675.0 -8983.3 337.9 25.4 -139.8"
+    "warehouseRoof"     "10974.0 -8761.9 497.0 8.1 -140.2"
+    "basementEntrence"  "10921.5 -9559.4 131.2 9.8 31.4"
+    "basementCornor"    "10957.4 -8972.5 142.0 8.6 -45.9"
+    "mid"               "10741.3 -10801.4 347.3 17.9 143.5"
+    "midHighpoint"      "9717.5 -10824.9 517.5 19.8 78.9"
+    "midHumwee"         "9944.2 -9131.2 314.3 27.4 -50.5"
+    "midWalls"          "10755.5 -9581.9 262.1 14.2 -163.7"
+    "house"             "11101.3 -10218.8 215.6 20.3 -131.7"
+    "houseRoof"         "9881.3 -8988.0 452.6 19.1 -24.7"
+    "backyard"          "7512.4 -8349.7 290.0 9.7 -40.0"
+    "longTunnel"        "7901.5 -11233.3 174.2 20.1 44.6"
+    "midBrokenWall"     "9511.9 -10798.5 189.9 23.8 37.0"
+}
