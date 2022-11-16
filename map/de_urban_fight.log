@@ -11904,3 +11904,1011 @@ Total triangle count: 8096
 Writing c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs.map.de.urban-fight\map\de_urban_fight.bsp
 MSG_FILEWRITE - Filesystem was asked to write to 'c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs.map.de.urban-fight\map\de_urban_fight.bsp', but we don't own that location. Allowing...
 5 minutes, 14 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.vmf
+Map revision 1634
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity ambient_generic (9253.63 -11884.80 256.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 238 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (199512 bytes)
+Static prop models/props_equipment/cargo_container01.mdl outside the map (9968.00, -11800.00, -24.00)
+Static prop models/props/gg_vietnam/ammobox_stack.mdl outside the map (10416.00, -11848.00, 96.00)
+Static prop models/props/de_nuke/hr_nuke/nuke_concrete_barrier/nuke_concrete_block128.mdl outside the map (11616.40, -9296.97, 271.77)
+Static prop models/props/de_nuke/hr_nuke/window_001/window_001_96.mdl outside the map (12484.40, -11558.50, 504.79)
+Static prop models/props/de_nuke/hr_nuke/window_001/window_001_96.mdl outside the map (12384.60, -11558.50, 504.78)
+Static prop models/props/de_nuke/hr_nuke/window_001/window_001_96.mdl outside the map (12286.80, -11558.60, 504.67)
+Static prop models/props/de_nuke/hr_nuke/window_001/window_001_96.mdl outside the map (12187.00, -11558.50, 504.66)
+Static prop models/props/de_nuke/hr_nuke/window_001/window_001_96.mdl outside the map (12087.00, -11558.70, 504.00)
+Static prop models/props/de_nuke/hr_nuke/window_001/window_001_96.mdl outside the map (11987.10, -11558.60, 503.99)
+Static prop models/props/de_nuke/hr_nuke/window_001/window_001_96.mdl outside the map (11889.40, -11558.80, 503.88)
+Static prop models/props/de_nuke/hr_nuke/window_001/window_001_96.mdl outside the map (11789.50, -11558.70, 503.87)
+Static prop models/props/de_nuke/hr_nuke/window_001/window_001_96.mdl outside the map (11587.10, -11558.70, 503.99)
+Static prop models/props/de_nuke/hr_nuke/window_001/window_001_96.mdl outside the map (11687.00, -11558.80, 504.00)
+Static prop models/props_industrial/warehouse_shelf002.mdl outside the map (11525.10, -9384.52, 192.26)
+Static prop models/props/de_nuke/hr_nuke/window_001/window_001_96.mdl outside the map (11688.00, -11558.50, 384.00)
+Static prop models/props/de_nuke/hr_nuke/window_001/window_001_96.mdl outside the map (11584.00, -11558.50, 384.00)
+Static prop models/props/de_nuke/hr_nuke/window_001/window_001_96.mdl outside the map (11788.20, -11558.50, 383.98)
+Static prop models/props/de_nuke/hr_nuke/window_001/window_001_96.mdl outside the map (11888.00, -11558.50, 384.00)
+Static prop models/props/de_nuke/hr_nuke/window_001/window_001_96.mdl outside the map (11988.20, -11558.50, 383.98)
+Static prop models/props/de_nuke/hr_nuke/window_001/window_001_96.mdl outside the map (12088.00, -11558.50, 384.00)
+Static prop models/props/de_nuke/hr_nuke/window_001/window_001_96.mdl outside the map (12188.20, -11558.50, 383.98)
+Static prop models/props/de_nuke/hr_nuke/window_001/window_001_96.mdl outside the map (12288.00, -11558.50, 384.00)
+Static prop models/props/de_nuke/hr_nuke/window_001/window_001_96.mdl outside the map (12387.50, -11558.50, 383.66)
+Static prop models/props/de_nuke/hr_nuke/window_001/window_001_96.mdl outside the map (12487.40, -11558.60, 383.67)
+Static prop models/props/props_crates/wooden_crate_64x64_bleach.mdl outside the map (10808.00, -9408.00, 137.14)
+Static prop models/props/props_crates/wooden_crate_64x64_bleach.mdl outside the map (11540.00, -9101.02, 192.01)
+Static prop models/props/de_vertigo/pallet_barrels_water01.mdl outside the map (10954.70, -9534.12, 192.07)
+Static prop models/props/de_vertigo/pallet_barrels_water01.mdl outside the map (10953.50, -9506.28, 243.85)
+Static prop models/props/props_crates/wooden_crate_64x64_bleach.mdl outside the map (10964.40, -9370.16, 192.01)
+Static prop models/props/props_crates/wooden_crate_64x64_bleach.mdl outside the map (11647.60, -8978.69, 192.01)
+Static prop models/props/de_dust/hr_dust/dust_crates/dust_crate_style_02_32x64x46.mdl outside the map (12081.20, -9168.29, 138.09)
+Static prop models/props/de_vertigo/pallet_barrels_water01.mdl outside the map (10954.10, -9462.21, 192.29)
+Static prop models/props_industrial/pallet_stack_96.mdl outside the map (11049.60, -9439.39, 191.95)
+Static prop models/props/de_dust/hr_dust/dust_crates/dust_crate_style_01_32x32x32.mdl outside the map (12031.30, -9153.72, 135.91)
+Static prop models/props/props_crates/wooden_crate_64x64_bleach.mdl outside the map (11028.00, -9534.73, 192.01)
+Static prop models/props_industrial/warehouse_shelf002.mdl outside the map (11272.00, -9128.00, 192.26)
+Static prop models/props/de_dust/hr_dust/dust_crates/dust_crate_style_01_32x32x32.mdl outside the map (12028.30, -8980.37, 132.93)
+Static prop models/props/gg_vietnam/ammobox_stack.mdl outside the map (10344.00, -11856.00, 96.75)
+Static prop models/props/de_dust/hr_dust/dust_crates/dust_crate_style_02_32x64x46.mdl outside the map (12080.40, -9126.57, 136.32)
+Static prop models/props/props_crates/wooden_crate_64x64_bleach.mdl outside the map (11535.50, -9643.47, 200.00)
+Static prop models/props/props_crates/wooden_crate_64x64_bleach.mdl outside the map (10800.70, -9456.67, 64.01)
+Static prop models/props/props_crates/wooden_crate_64x64_bleach.mdl outside the map (11117.70, -9521.75, 192.01)
+Static prop models/props/de_dust/hr_dust/dust_crates/dust_crate_style_01_32x32x32.mdl outside the map (12053.80, -8951.99, 133.92)
+Static prop models/props/de_dust/hr_dust/dust_crates/dust_crate_style_01_32x32x32.mdl outside the map (12072.00, -9001.25, 191.92)
+Static prop models/props_industrial/warehouse_shelf002.mdl outside the map (11359.90, -9384.28, 192.26)
+Static prop models/props_industrial/warehouse_shelf002.mdl outside the map (11176.00, -9560.00, 192.26)
+Static prop models/props/de_dust/hr_dust/dust_crates/dust_crate_style_01_32x32x32.mdl outside the map (11987.40, -9023.05, 139.23)
+Static prop models/props/de_dust/hr_dust/dust_crates/dust_crate_style_01_37x37x74b_tarp.mdl outside the map (12041.90, -9017.28, 156.37)
+Static prop models/props/de_dust/hr_dust/dust_crates/dust_crate_style_01_32x64x64.mdl outside the map (12036.50, -9015.70, 138.19)
+Static prop models/props/de_dust/hr_dust/dust_crates/dust_crate_style_01_37x37x74b_tarp.mdl outside the map (12085.90, -8961.35, 155.72)
+Static prop models/props/de_dust/hr_dust/dust_crates/dust_crate_style_01_32x64x64.mdl outside the map (12084.00, -8966.48, 139.45)
+Static prop models/props_industrial/warehouse_shelf002.mdl outside the map (11497.80, -10013.80, 192.26)
+Static prop models/props/de_dust/hr_dust/dust_crates/dust_crate_style_01_32x32x32.mdl outside the map (12094.00, -9156.45, 188.76)
+Static prop models/props/de_nuke/hr_nuke/nuke_concrete_barrier/nuke_concrete_block128.mdl outside the map (11616.90, -9296.60, 231.64)
+Static prop models/props/de_nuke/hr_nuke/nuke_light_fixture/nuke_fluorescent_light_large.mdl outside the map (11104.00, -9352.00, 345.48)
+Static prop models/props/de_nuke/hr_nuke/nuke_light_fixture/nuke_fluorescent_light_large.mdl outside the map (11499.20, -9456.00, 345.89)
+Static prop models/props_industrial/warehouse_shelf002.mdl outside the map (11497.10, -9682.23, 192.26)
+Static prop models/props/props_crates/wooden_crate_64x64_bleach.mdl outside the map (10789.50, -9509.37, 135.98)
+Static prop models/props/props_crates/wooden_crate_64x64_bleach.mdl outside the map (10813.80, -9535.33, 64.01)
+Static prop models/props/de_dust/hr_dust/dust_trims/stone_ground001.mdl outside the map (11064.00, -10968.00, 70.89)
+Static prop models/props_industrial/warehouse_shelf002.mdl outside the map (11496.00, -9848.00, 192.26)
+Static prop models/props/props_crates/wooden_crate_64x64_bleach.mdl outside the map (11464.00, -9176.00, 192.01)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 140 texinfos to 81
+Reduced 29 texdatas to 26 (1225 bytes to 1085)
+Writing C:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp
+reading c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.prt
+LoadPortals: couldn't read c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.prt
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.vmf
+Map revision 1635
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 256 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (235344 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 146 texinfos to 81
+Reduced 29 texdatas to 26 (1225 bytes to 1085)
+Writing C:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp
+reading c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.prt
+ 841 portalclusters
+2746 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2549 visible clusters (0.00%)
+Total clusters visible: 382684
+Average clusters visible: 455
+Building PAS...
+Average clusters audible: 834
+visdatasize:181833  compressed from 188384
+writing c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp', but we don't own that location. Allowing...
+3 minutes, 50 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp
+2673 faces
+901822 square feet [129862488.00 square inches]
+33 Displacements
+17127 Square Feet [2466349.50 Square Inches]
+2673 patches before subdivision
+48099 patches after subdivision
+67 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2925735, max 805
+transfer lists:  22.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(137585, 60734, 19762)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(43544, 6858, 835)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14862, 810, 47)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(5605, 102, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2109, 13, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(888, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(358, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(165, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(70, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(35, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(15, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(8, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0134 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                533/8192         6396/98304    ( 6.5%) 
+brushsides            4241/81920       33928/655360   ( 5.2%) 
+planes                3058/65536       61160/1310720  ( 4.7%) 
+vertexes              5194/65536       62328/786432   ( 7.9%) 
+nodes                 1594/65536       51008/2097152  ( 2.4%) 
+texinfos                81/12288        5832/884736   ( 0.7%) 
+texdata                 26/4096          832/131072   ( 0.6%) 
+dispinfos               33/0            5808/0        ( 0.0%) 
+disp_verts            8497/0          169940/0        ( 0.0%) 
+disp_tris            14976/0           29952/0        ( 0.0%) 
+disp_multiblend        694/0           55520/0        ( 0.0%) 
+disp_lmsamples       16378/0           16378/0        ( 0.0%) 
+faces                 2673/65536      149688/3670016  ( 4.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1444/65536       80864/3670016  ( 2.2%) 
+facebrushes            500/0            1000/0        ( 0.0%) 
+facebrushlists        2673/0           10692/0        ( 0.0%) 
+leaves                1600/65536       51200/2097152  ( 2.4%) 
+leaffaces             3573/65536        7146/131072   ( 5.5%) 
+leafbrushes           1727/65536        3454/131072   ( 2.6%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            19462/512000      77848/2048000  ( 3.8%) 
+edges                12338/256000      49352/1024000  ( 4.8%) 
+LDR worldlights         67/8192         6700/819200   ( 0.8%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            379/32768        3790/327680   ( 1.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6375/65536       12750/131072   ( 9.7%) 
+cubemapsamples          34/1024          544/16384    ( 3.3%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]     2047824/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      181833/16777216 ( 1.1%) 
+entdata               [variable]       30525/393216   ( 7.8%) 
+LDR ambient table     1600/65536        6400/262144   ( 2.4%) 
+HDR ambient table     1600/65536        6400/262144   ( 2.4%) 
+LDR leaf ambient      8866/65536      248248/1835008  (13.5%) 
+HDR leaf ambient      1600/65536       44800/1835008  ( 2.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/44768    ( 0.0%) 
+pakfile               [variable]     9906084/0        ( 0.0%) 
+physics               [variable]      235344/4194304  ( 5.6%) 
+physics terrain       [variable]       26083/1048576  ( 2.5%) 
+
+Level flags = 7d
+
+Total triangle count: 8154
+Writing c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp', but we don't own that location. Allowing...
+6 minutes, 32 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp
+2673 faces
+901822 square feet [129862488.00 square inches]
+33 Displacements
+17127 Square Feet [2466349.50 Square Inches]
+2673 patches before subdivision
+48099 patches after subdivision
+67 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2925735, max 805
+transfer lists:  22.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(153965, 79972, 31680)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(47664, 9046, 1523)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(16077, 1074, 89)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(5994, 135, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2240, 17, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(935, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(374, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(171, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(72, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(35, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(16, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(8, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0131 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.vmf
+Map revision 1648
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 256 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (236936 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 146 texinfos to 81
+Reduced 29 texdatas to 26 (1225 bytes to 1085)
+Writing C:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp
+reading c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.prt
+ 839 portalclusters
+2728 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2503 visible clusters (0.00%)
+Total clusters visible: 384678
+Average clusters visible: 458
+Building PAS...
+Average clusters audible: 832
+visdatasize:179734  compressed from 187936
+writing c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp', but we don't own that location. Allowing...
+4 minutes, 48 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp
+2682 faces
+901822 square feet [129862488.00 square inches]
+38 Displacements
+20263 Square Feet [2917877.50 Square Inches]
+2682 patches before subdivision
+48108 patches after subdivision
+69 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2913384, max 800
+transfer lists:  22.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(122424, 56460, 19687)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(38460, 6378, 828)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(13149, 757, 47)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4911, 95, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1846, 12, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(769, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(309, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(141, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(60, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(29, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(13, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0134 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                538/8192         6456/98304    ( 6.6%) 
+brushsides            4271/81920       34168/655360   ( 5.2%) 
+planes                3066/65536       61320/1310720  ( 4.7%) 
+vertexes              5218/65536       62616/786432   ( 8.0%) 
+nodes                 1598/65536       51136/2097152  ( 2.4%) 
+texinfos                81/12288        5832/884736   ( 0.7%) 
+texdata                 26/4096          832/131072   ( 0.6%) 
+dispinfos               38/0            6688/0        ( 0.0%) 
+disp_verts            9678/0          193560/0        ( 0.0%) 
+disp_tris            17056/0           34112/0        ( 0.0%) 
+disp_multiblend        694/0           55520/0        ( 0.0%) 
+disp_lmsamples       19258/0           19258/0        ( 0.0%) 
+faces                 2682/65536      150192/3670016  ( 4.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1452/65536       81312/3670016  ( 2.2%) 
+facebrushes            549/0            1098/0        ( 0.0%) 
+facebrushlists        2682/0           10728/0        ( 0.0%) 
+leaves                1604/65536       51328/2097152  ( 2.4%) 
+leaffaces             3573/65536        7146/131072   ( 5.5%) 
+leafbrushes           1742/65536        3484/131072   ( 2.7%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            19541/512000      78164/2048000  ( 3.8%) 
+edges                12393/256000      49572/1024000  ( 4.8%) 
+LDR worldlights         69/8192         6900/819200   ( 0.8%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            383/32768        3830/327680   ( 1.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6447/65536       12894/131072   ( 9.8%) 
+cubemapsamples          34/1024          544/16384    ( 3.3%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]     2052816/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      179734/16777216 ( 1.1%) 
+entdata               [variable]       31055/393216   ( 7.9%) 
+LDR ambient table     1604/65536        6416/262144   ( 2.4%) 
+HDR ambient table     1604/65536        6416/262144   ( 2.4%) 
+LDR leaf ambient      8770/65536      245560/1835008  (13.4%) 
+HDR leaf ambient      1604/65536       44912/1835008  ( 2.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/44962    ( 0.0%) 
+pakfile               [variable]     9912836/0        ( 0.0%) 
+physics               [variable]      236936/4194304  ( 5.6%) 
+physics terrain       [variable]       29392/1048576  ( 2.8%) 
+
+Level flags = 7d
+
+Total triangle count: 8183
+Writing c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp', but we don't own that location. Allowing...
+6 minutes, 9 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp
+2682 faces
+901822 square feet [129862488.00 square inches]
+38 Displacements
+20263 Square Feet [2917877.50 Square Inches]
+2682 patches before subdivision
+48108 patches after subdivision
+69 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2913384, max 800
+transfer lists:  22.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(240061, 108802, 38056)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(75280, 12199, 1609)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(25700, 1438, 91)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(9607, 180, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(3614, 23, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1509, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(608, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(278, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(118, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(58, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(13, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0137 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                538/8192         6456/98304    ( 6.6%) 
+brushsides            4271/81920       34168/655360   ( 5.2%) 
+planes                3066/65536       61320/1310720  ( 4.7%) 
+vertexes              5218/65536       62616/786432   ( 8.0%) 
+nodes                 1598/65536       51136/2097152  ( 2.4%) 
+texinfos                81/12288        5832/884736   ( 0.7%) 
+texdata                 26/4096          832/131072   ( 0.6%) 
+dispinfos               38/0            6688/0        ( 0.0%) 
+disp_verts            9678/0          193560/0        ( 0.0%) 
+disp_tris            17056/0           34112/0        ( 0.0%) 
+disp_multiblend        694/0           55520/0        ( 0.0%) 
+disp_lmsamples       19258/0           19258/0        ( 0.0%) 
+faces                 2682/65536      150192/3670016  ( 4.1%) 
+hdr faces             2682/65536      150192/3670016  ( 4.1%) 
+origfaces             1452/65536       81312/3670016  ( 2.2%) 
+facebrushes            549/0            1098/0        ( 0.0%) 
+facebrushlists        2682/0           10728/0        ( 0.0%) 
+leaves                1604/65536       51328/2097152  ( 2.4%) 
+leaffaces             3573/65536        7146/131072   ( 5.5%) 
+leafbrushes           1742/65536        3484/131072   ( 2.7%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            19541/512000      78164/2048000  ( 3.8%) 
+edges                12393/256000      49572/1024000  ( 4.8%) 
+LDR worldlights         69/8192         6900/819200   ( 0.8%) 
+HDR worldlights         69/8192         6900/819200   ( 0.8%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            383/32768        3830/327680   ( 1.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6447/65536       12894/131072   ( 9.8%) 
+cubemapsamples          34/1024          544/16384    ( 3.3%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]     2052816/0        ( 0.0%) 
+HDR lightdata         [variable]     2052816/0        ( 0.0%) 
+visdata               [variable]      179734/16777216 ( 1.1%) 
+entdata               [variable]       31055/393216   ( 7.9%) 
+LDR ambient table     1604/65536        6416/262144   ( 2.4%) 
+HDR ambient table     1604/65536        6416/262144   ( 2.4%) 
+LDR leaf ambient      8770/65536      245560/1835008  (13.4%) 
+HDR leaf ambient      8951/65536      250628/1835008  (13.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/44962    ( 0.0%) 
+pakfile               [variable]    17219584/0        ( 0.0%) 
+physics               [variable]      236936/4194304  ( 5.6%) 
+physics terrain       [variable]       29392/1048576  ( 2.8%) 
+
+Level flags = 7f
+
+Total triangle count: 8183
+Writing c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp', but we don't own that location. Allowing...
+6 minutes, 11 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.vmf
+Map revision 1753
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 256 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (247029 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 181 texinfos to 79
+Reduced 32 texdatas to 28 (1413 bytes to 1250)
+Writing C:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp
+reading c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.prt
+ 849 portalclusters
+2768 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2762 visible clusters (0.00%)
+Total clusters visible: 385441
+Average clusters visible: 453
+Building PAS...
+Average clusters audible: 842
+visdatasize:185235  compressed from 190176
+writing c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp', but we don't own that location. Allowing...
+7 minutes, 2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp
+2716 faces
+1 degenerate faces
+905824 square feet [130438752.00 square inches]
+59 Displacements
+44792 Square Feet [6450134.50 Square Inches]
+2715 patches before subdivision
+48431 patches after subdivision
+69 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2695855, max 808
+transfer lists:  20.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(120688, 55796, 19123)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(37842, 6234, 784)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(12966, 741, 46)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4865, 94, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1836, 12, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(768, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(310, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(141, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(60, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(29, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(13, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0144 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  17/1024          816/49152    ( 1.7%) 
+brushes                567/8192         6804/98304    ( 6.9%) 
+brushsides            4487/81920       35896/655360   ( 5.5%) 
+planes                3236/65536       64720/1310720  ( 4.9%) 
+vertexes              5400/65536       64800/786432   ( 8.2%) 
+nodes                 1706/65536       54592/2097152  ( 2.6%) 
+texinfos                79/12288        5688/884736   ( 0.6%) 
+texdata                 28/4096          896/131072   ( 0.7%) 
+dispinfos               59/0           10384/0        ( 0.0%) 
+disp_verts           15747/0          314940/0        ( 0.0%) 
+disp_tris            27808/0           55616/0        ( 0.0%) 
+disp_multiblend        694/0           55520/0        ( 0.0%) 
+disp_lmsamples       39808/0           39808/0        ( 0.0%) 
+faces                 2716/65536      152096/3670016  ( 4.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1539/65536       86184/3670016  ( 2.3%) 
+facebrushes            582/0            1164/0        ( 0.0%) 
+facebrushlists        2716/0           10864/0        ( 0.0%) 
+leaves                1724/65536       55168/2097152  ( 2.6%) 
+leaffaces             3599/65536        7198/131072   ( 5.5%) 
+leafbrushes           1797/65536        3594/131072   ( 2.7%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            20055/512000      80220/2048000  ( 3.9%) 
+edges                12703/256000      50812/1024000  ( 5.0%) 
+LDR worldlights         69/8192         6900/819200   ( 0.8%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            373/32768        3730/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6336/65536       12672/131072   ( 9.7%) 
+cubemapsamples          34/1024          544/16384    ( 3.3%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]     2095564/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      185235/16777216 ( 1.1%) 
+entdata               [variable]       39447/393216   (10.0%) 
+LDR ambient table     1724/65536        6896/262144   ( 2.6%) 
+HDR ambient table     1724/65536        6896/262144   ( 2.6%) 
+LDR leaf ambient      9072/65536      254016/1835008  (13.8%) 
+HDR leaf ambient      1724/65536       48272/1835008  ( 2.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/44956    ( 0.0%) 
+pakfile               [variable]     9913949/0        ( 0.0%) 
+physics               [variable]      247029/4194304  ( 5.9%) 
+physics terrain       [variable]       45226/1048576  ( 4.3%) 
+
+Level flags = 7d
+
+Total triangle count: 8282
+Writing c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp', but we don't own that location. Allowing...
+6 minutes, 16 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp
+2716 faces
+1 degenerate faces
+905824 square feet [130438752.00 square inches]
+59 Displacements
+44792 Square Feet [6450134.50 Square Inches]
+2715 patches before subdivision
+48431 patches after subdivision
+69 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2695855, max 808
+transfer lists:  20.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(236578, 107465, 36925)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(74038, 11910, 1522)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(25332, 1406, 89)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(9514, 177, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(3593, 23, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1507, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(609, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(279, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(119, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(58, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(13, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0138 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  17/1024          816/49152    ( 1.7%) 
+brushes                567/8192         6804/98304    ( 6.9%) 
+brushsides            4487/81920       35896/655360   ( 5.5%) 
+planes                3236/65536       64720/1310720  ( 4.9%) 
+vertexes              5400/65536       64800/786432   ( 8.2%) 
+nodes                 1706/65536       54592/2097152  ( 2.6%) 
+texinfos                79/12288        5688/884736   ( 0.6%) 
+texdata                 28/4096          896/131072   ( 0.7%) 
+dispinfos               59/0           10384/0        ( 0.0%) 
+disp_verts           15747/0          314940/0        ( 0.0%) 
+disp_tris            27808/0           55616/0        ( 0.0%) 
+disp_multiblend        694/0           55520/0        ( 0.0%) 
+disp_lmsamples       39808/0           39808/0        ( 0.0%) 
+faces                 2716/65536      152096/3670016  ( 4.1%) 
+hdr faces             2716/65536      152096/3670016  ( 4.1%) 
+origfaces             1539/65536       86184/3670016  ( 2.3%) 
+facebrushes            582/0            1164/0        ( 0.0%) 
+facebrushlists        2716/0           10864/0        ( 0.0%) 
+leaves                1724/65536       55168/2097152  ( 2.6%) 
+leaffaces             3599/65536        7198/131072   ( 5.5%) 
+leafbrushes           1797/65536        3594/131072   ( 2.7%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            20055/512000      80220/2048000  ( 3.9%) 
+edges                12703/256000      50812/1024000  ( 5.0%) 
+LDR worldlights         69/8192         6900/819200   ( 0.8%) 
+HDR worldlights         69/8192         6900/819200   ( 0.8%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            373/32768        3730/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6336/65536       12672/131072   ( 9.7%) 
+cubemapsamples          34/1024          544/16384    ( 3.3%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]     2095564/0        ( 0.0%) 
+HDR lightdata         [variable]     2095564/0        ( 0.0%) 
+visdata               [variable]      185235/16777216 ( 1.1%) 
+entdata               [variable]       39447/393216   (10.0%) 
+LDR ambient table     1724/65536        6896/262144   ( 2.6%) 
+HDR ambient table     1724/65536        6896/262144   ( 2.6%) 
+LDR leaf ambient      9072/65536      254016/1835008  (13.8%) 
+HDR leaf ambient      9253/65536      259084/1835008  (14.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/44956    ( 0.0%) 
+pakfile               [variable]    17220697/0        ( 0.0%) 
+physics               [variable]      247029/4194304  ( 5.9%) 
+physics terrain       [variable]       45226/1048576  ( 4.3%) 
+
+Level flags = 7f
+
+Total triangle count: 8282
+Writing c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp', but we don't own that location. Allowing...
+6 minutes, 20 seconds elapsed
+
+
+
+materialPath: C:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.vmf
+Map revision 1753
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 256 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (247029 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 181 texinfos to 79
+Reduced 32 texdatas to 28 (1413 bytes to 1250)
+Writing C:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+8 threads
+reading c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp
+reading c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.prt
+ 849 portalclusters
+2768 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2763 visible clusters (0.00%)
+Total clusters visible: 385442
+Average clusters visible: 453
+Building PAS...
+Average clusters audible: 842
+visdatasize:185235  compressed from 190176
+writing c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp', but we don't own that location. Allowing...
+7 minutes, 0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp
+2716 faces
+1 degenerate faces
+905824 square feet [130438752.00 square inches]
+59 Displacements
+44792 Square Feet [6450134.50 Square Inches]
+2715 patches before subdivision
+48431 patches after subdivision
+69 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2695855, max 808
+transfer lists:  20.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(120688, 55796, 19123)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(37842, 6234, 784)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(12966, 741, 46)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4865, 94, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1836, 12, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(768, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(310, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(141, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(60, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(29, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(13, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0133 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  17/1024          816/49152    ( 1.7%) 
+brushes                567/8192         6804/98304    ( 6.9%) 
+brushsides            4487/81920       35896/655360   ( 5.5%) 
+planes                3236/65536       64720/1310720  ( 4.9%) 
+vertexes              5400/65536       64800/786432   ( 8.2%) 
+nodes                 1706/65536       54592/2097152  ( 2.6%) 
+texinfos                79/12288        5688/884736   ( 0.6%) 
+texdata                 28/4096          896/131072   ( 0.7%) 
+dispinfos               59/0           10384/0        ( 0.0%) 
+disp_verts           15747/0          314940/0        ( 0.0%) 
+disp_tris            27808/0           55616/0        ( 0.0%) 
+disp_multiblend        694/0           55520/0        ( 0.0%) 
+disp_lmsamples       39808/0           39808/0        ( 0.0%) 
+faces                 2716/65536      152096/3670016  ( 4.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1539/65536       86184/3670016  ( 2.3%) 
+facebrushes            582/0            1164/0        ( 0.0%) 
+facebrushlists        2716/0           10864/0        ( 0.0%) 
+leaves                1724/65536       55168/2097152  ( 2.6%) 
+leaffaces             3599/65536        7198/131072   ( 5.5%) 
+leafbrushes           1797/65536        3594/131072   ( 2.7%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            20055/512000      80220/2048000  ( 3.9%) 
+edges                12703/256000      50812/1024000  ( 5.0%) 
+LDR worldlights         69/8192         6900/819200   ( 0.8%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            373/32768        3730/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6336/65536       12672/131072   ( 9.7%) 
+cubemapsamples          34/1024          544/16384    ( 3.3%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]     2095564/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      185235/16777216 ( 1.1%) 
+entdata               [variable]       39447/393216   (10.0%) 
+LDR ambient table     1724/65536        6896/262144   ( 2.6%) 
+HDR ambient table     1724/65536        6896/262144   ( 2.6%) 
+LDR leaf ambient      9072/65536      254016/1835008  (13.8%) 
+HDR leaf ambient      1724/65536       48272/1835008  ( 2.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/44956    ( 0.0%) 
+pakfile               [variable]     9913949/0        ( 0.0%) 
+physics               [variable]      247029/4194304  ( 5.9%) 
+physics terrain       [variable]       45226/1048576  ( 4.3%) 
+
+Level flags = 7d
+
+Total triangle count: 8282
+Writing c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp', but we don't own that location. Allowing...
+5 minutes, 57 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp
+2716 faces
+1 degenerate faces
+905824 square feet [130438752.00 square inches]
+59 Displacements
+44792 Square Feet [6450134.50 Square Inches]
+2715 patches before subdivision
+48431 patches after subdivision
+69 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2695855, max 808
+transfer lists:  20.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(236580, 107466, 36925)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(74039, 11910, 1522)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(25332, 1406, 89)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(9514, 177, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(3593, 23, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1507, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(609, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(279, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(119, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(58, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(13, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0181 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  17/1024          816/49152    ( 1.7%) 
+brushes                567/8192         6804/98304    ( 6.9%) 
+brushsides            4487/81920       35896/655360   ( 5.5%) 
+planes                3236/65536       64720/1310720  ( 4.9%) 
+vertexes              5400/65536       64800/786432   ( 8.2%) 
+nodes                 1706/65536       54592/2097152  ( 2.6%) 
+texinfos                79/12288        5688/884736   ( 0.6%) 
+texdata                 28/4096          896/131072   ( 0.7%) 
+dispinfos               59/0           10384/0        ( 0.0%) 
+disp_verts           15747/0          314940/0        ( 0.0%) 
+disp_tris            27808/0           55616/0        ( 0.0%) 
+disp_multiblend        694/0           55520/0        ( 0.0%) 
+disp_lmsamples       39808/0           39808/0        ( 0.0%) 
+faces                 2716/65536      152096/3670016  ( 4.1%) 
+hdr faces             2716/65536      152096/3670016  ( 4.1%) 
+origfaces             1539/65536       86184/3670016  ( 2.3%) 
+facebrushes            582/0            1164/0        ( 0.0%) 
+facebrushlists        2716/0           10864/0        ( 0.0%) 
+leaves                1724/65536       55168/2097152  ( 2.6%) 
+leaffaces             3599/65536        7198/131072   ( 5.5%) 
+leafbrushes           1797/65536        3594/131072   ( 2.7%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            20055/512000      80220/2048000  ( 3.9%) 
+edges                12703/256000      50812/1024000  ( 5.0%) 
+LDR worldlights         69/8192         6900/819200   ( 0.8%) 
+HDR worldlights         69/8192         6900/819200   ( 0.8%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            373/32768        3730/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6336/65536       12672/131072   ( 9.7%) 
+cubemapsamples          34/1024          544/16384    ( 3.3%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]     2095564/0        ( 0.0%) 
+HDR lightdata         [variable]     2095564/0        ( 0.0%) 
+visdata               [variable]      185235/16777216 ( 1.1%) 
+entdata               [variable]       39447/393216   (10.0%) 
+LDR ambient table     1724/65536        6896/262144   ( 2.6%) 
+HDR ambient table     1724/65536        6896/262144   ( 2.6%) 
+LDR leaf ambient      9072/65536      254016/1835008  (13.8%) 
+HDR leaf ambient      9253/65536      259084/1835008  (14.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/44956    ( 0.0%) 
+pakfile               [variable]    17220697/0        ( 0.0%) 
+physics               [variable]      247029/4194304  ( 5.9%) 
+physics terrain       [variable]       45226/1048576  ( 4.3%) 
+
+Level flags = 7f
+
+Total triangle count: 8282
+Writing c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\hollow\cs-map-de-urban-fight\map\de_urban_fight.bsp', but we don't own that location. Allowing...
+6 minutes, 13 seconds elapsed
